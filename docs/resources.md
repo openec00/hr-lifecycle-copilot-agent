@@ -7,7 +7,9 @@ The following resources provide further information about the HR Lifecycle Copil
 
 ### Demonstration and Documentation
 
-[Download the Agentathon project summary (Word)](/downloads/agentathon-summary.docx)
+<a href="/downloads/agentathon-summary.docx" download>
+  Download the Agentathon project summary (Word)
+</a>
 
 ### Technical Resources
 
