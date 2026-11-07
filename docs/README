@@ -1,1 +1,56 @@
-This folder contains Full documentation and Build specification.
+
+---
+layout: home
+
+hero:
+  name: "HR Lifecycle Copilot Agent"
+  text: "Simplifying Starter and Leaver Processes"
+  tagline: "An Opene Labs hackathon prototype exploring AI-assisted workflows for managers, HR and ICT teams."
+  image:
+    src: /images/AgentCover.png
+    alt: HR Lifecycle Copilot Agent
+  actions:
+    - theme: brand
+      text: Watch Demonstration
+      link: /demo
+    - theme: alt
+      text: Explore Architecture
+      link: /architecture
+
+features:
+  - title: Guided Processes
+    details: Explore structured starter and leaver journeys that help users navigate operational requirements.
+    link: /demo
+
+  - title: AI-Assisted Workflows
+    details: See how Copilot Studio can support information gathering, input validation and structured outputs.
+    link: /architecture
+
+  - title: Development Roadmap
+    details: Review the prototype's next steps, evaluation priorities and opportunities for further development.
+    link: /roadmap
+---
+
+## Executive Overview
+
+The HR Lifecycle Copilot Agent is a hackathon prototype developed using Microsoft Copilot Studio.
+
+It explores how a conversational agent could support employee starter and leaver processes by guiding users through relevant information and producing structured outputs for action by HR, managers and ICT colleagues.
+
+## Potential Value
+
+- A more consistent experience for managers navigating HR processes.
+- Reduced reliance on manually locating guidance and forms.
+- More structured information capture and handover.
+- Opportunities to reduce avoidable clarification and rework.
+
+These are potential benefits to be evaluated, not verified operational outcomes.
+
+## Current Status
+
+**Hackathon prototype — not a live operational service.**
+
+The next stage is to evaluate the proposed workflows, user experience, controls and opportunities for further development.
+
+[Watch the demonstration](/demo) |
+[View the roadmap](/roadmap)
