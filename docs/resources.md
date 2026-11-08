@@ -22,4 +22,3 @@ The following resources provide further information about the HR Lifecycle Copil
 - [Solution Architecture](/architecture)
 - [Development Roadmap](/roadmap)
 
-Only materials approved for public sharing should be linked from this website.
